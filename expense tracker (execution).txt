@@ -1,0 +1,6 @@
+To run the expense tracker
+
+=> open launchpad folder
+=> in the address bar type cmd (to open command prompt)
+=> to execute
+	python main.py (command)
